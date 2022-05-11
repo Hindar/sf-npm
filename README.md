@@ -15,7 +15,7 @@ node index.js
 ## Docker
 
 ```sh
-sudo docker run Hindar/sf
+sudo docker run Hindar/sf-npm
 you get the result:
 The result is: 19
 ```
