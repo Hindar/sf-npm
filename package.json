@@ -1,0 +1,20 @@
+{
+  "name": "sf-hindar-test",
+  "version": "1.0.0",
+  "description": "first npm app for SF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hindar/sf-npm.git"
+  },
+  "author": "Hindar",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "jquery": "^3.6.0"
+  }
+}
